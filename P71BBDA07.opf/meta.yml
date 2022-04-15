@@ -1,0 +1,28 @@
+id: P71BBDA07
+initial_creation_type: input
+source_metadata:
+  title: Sakya Religious History by bCo brgyad khri chen rin po che (1919–2007)
+  author: bco brgyad khri chen thub bstan legs bshad rgya mtsho/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2019-12-20); no thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:kun dga' rdo rje/ (kun)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/3737
+  bases:
+    06a6:
+      title: Sakya Religious History by bCo brgyad khri chen rin po che (1919–2007)
+      order: 1
+      base_file: 06a6.txt
+created_at: '2022-04-15T19:10:23.227813'
+last_modified_at: '2022-04-15T19:10:23.227820'
+quality: null
